@@ -1,0 +1,47 @@
+[33mcommit e6c810d0d687c0cd2466dac32e61719831c2db79[m[33m ([m[1;36mHEAD -> [m[1;32msjc[m[33m, [m[1;31morigin/sjc[m[33m)[m
+Author: sjc <1747120347@qq.com>
+Date:   Tue Mar 12 09:18:05 2024 +0800
+
+    管理员相关界面的完成
+
+[33mcommit c626edf79d96c0851d8931eb119d026f0a4029e3[m
+Author: sjc <1747120347@qq.com>
+Date:   Mon Mar 11 10:07:04 2024 +0800
+
+    医生端基本布局界面
+
+[33mcommit c06c3377a07ae9d5e6157995ab0dab9664c5cb14[m
+Author: sjc <1747120347@qq.com>
+Date:   Mon Mar 11 09:50:41 2024 +0800
+
+    admin管理员账户的界面布局
+
+[33mcommit c1825b274dc56fce5c43de0b22a4702700b22cac[m
+Author: sjc <1747120347@qq.com>
+Date:   Mon Mar 11 09:33:24 2024 +0800
+
+    登录界面的提交
+
+[33mcommit e392e60e5a4f45e42e5644e4677845bab89d5977[m
+Author: sjc <1747120347@qq.com>
+Date:   Mon Mar 11 09:21:12 2024 +0800
+
+    提交到sjc分支
+
+[33mcommit 47bb1258c8432df3a78eb20f0e5ebb5e40e01ebe[m
+Author: sjc <1747120347@qq.com>
+Date:   Mon Mar 11 09:18:27 2024 +0800
+
+    测试分支提交
+
+[33mcommit 5825b3e8ad3ba3b54003a1b9614e5613c27db4ed[m
+Author: f8f8ad5224e94751a97f2898ec1408e9 <715ab5d9b1b64b08baeb9e241997a501@example.com>
+Date:   Sat Mar 2 23:20:52 2024 +0800
+
+    Initial commit
+
+[33mcommit 50802ca79898af8df7f7e934a7a0e2e8777cf3bb[m
+Author: f8f8ad5224e94751a97f2898ec1408e9 <715ab5d9b1b64b08baeb9e241997a501@example.com>
+Date:   Sat Mar 2 23:20:51 2024 +0800
+
+    Initial commit
